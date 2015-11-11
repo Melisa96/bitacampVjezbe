@@ -3,4 +3,5 @@ Ferid je piccolo rijad.
 Nedim je najmanji rijad.
 
 ovo je sa developmenta
-development nakon merga
+development  nakon merga
+ma nije nego sa drugog racunara
